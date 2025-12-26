@@ -1,5 +1,5 @@
 # LogFinder  
-*(Based on the exercise [LogFinder](https://example.com) inspired by common system administration tasks)*
+*(Based on the exercise [LogFinder](https://neps.academy/br/course/estrategias-avancadas-de-programacao/lesson/ferramenta-de-analise-de-erros-em-arquivos-de-log) inspired by common system administration tasks)*
 
 This project was developed as a **command-line tool in Python** to analyze log files and identify periods with the highest concentration of errors.  
 It focuses on efficient **file processing**, **timestamp handling**, and the use of a **sliding window algorithm** to optimize error detection in large log files.
