@@ -33,8 +33,8 @@ It focuses on efficient **file processing**, **timestamp handling**, and the use
 Follow the steps below to run the project locally:
 
 ```bash
-git clone https://github.com/your-username/logfinder.git
-cd logfinder
+git clone https://github.com/your-username/logfinder.git](https://github.com/maaluuzete/error-analysis-tool-for-log-files.git
+cd error-analysis-tool-for-log-files
 python logfinder.py <path_to_log_file> <window_size_in_seconds>
 ```
 ## Project Structure
